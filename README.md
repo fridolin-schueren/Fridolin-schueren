@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am currently doing a masters program for Data Science at TU Chemnitz, learning all about the math and beyond :)
 <!--
 **fridolin-schueren/Fridolin-schueren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
